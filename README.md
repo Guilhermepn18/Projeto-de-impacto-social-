@@ -1,56 +1,5 @@
 <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f0f4f8; padding: 50px; border-radius: 20px; text-align:center; color: #2c3e50; max-width: 900px; margin: auto; box-shadow: 0 15px 40px rgba(0,0,0,0.1); animation: fadeIn 1.5s ease-in-out;">
 
-  <style>
-    @keyframes fadeIn {
-      from {opacity: 0; transform: translateY(30px);}
-      to {opacity: 1; transform: translateY(0);}
-    }
-
-    @keyframes pulse {
-      0% {transform: scale(1);}
-      50% {transform: scale(1.05);}
-      100% {transform: scale(1);}
-    }
-
-    .card {
-      background: white;
-      padding: 25px;
-      border-radius: 20px;
-      flex: 1;
-      min-width: 250px;
-      max-width: 300px;
-      box-shadow: 0 10px 25px rgba(0,0,0,0.15);
-      transition: transform 0.3s, box-shadow 0.3s;
-    }
-
-    .card:hover {
-      transform: translateY(-10px);
-      box-shadow: 0 15px 35px rgba(0,0,0,0.2);
-      animation: pulse 1s infinite;
-    }
-
-    .highlight {
-      color: #3498db;
-      font-weight: bold;
-    }
-
-    .button {
-      display:inline-block;
-      background: #8e44ad;
-      color:white;
-      padding: 18px 35px;
-      border-radius: 50px;
-      text-decoration:none;
-      font-weight:bold;
-      box-shadow:0 8px 20px rgba(0,0,0,0.2);
-      transition: all 0.3s ease;
-      margin-top: 30px;
-    }
-
-    .button:hover {
-      background: #732d91;
-      transform: scale(1.05);
-    }
   </style>
 
   <h1 style="font-size:3em; margin-bottom:10px;">🌟 Conecta +</h1>
