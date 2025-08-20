@@ -68,7 +68,7 @@ No **Conecta +**, acreditamos que a tecnologia deve **unir, educar e transformar
 ---
 
 ## 6️⃣ Impacto Social Esperado
-> ![Impacto GIF](https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif)  
+> ![Impacto GIF]([https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.trascendenciasocial.org%2F&psig=AOvVaw0I3hSnpVBGx9bNYPJHNIPj&ust=1755815911570000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCU75y6mo8DFQAAAAAdAAAAABAL))  
 > Mudanças positivas esperadas:
 > - Maior alfabetização digital  
 > - Inclusão social e profissional  
