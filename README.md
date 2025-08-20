@@ -88,7 +88,7 @@ O Conecta + é projetado para atender estas necessidades, oferecendo **interface
 ---
 
 ## 6️⃣ Impacto Social Esperado
-![Impacto](https://images.unsplash.com/photo-1504384308090-c894fdcc538d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)  
+![Impacto]([https://images.unsplash.com/photo-1504384308090-c894fdcc538d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080](https://www.weg.net/weghome/wp-content/uploads/2018/02/negocios-de-impacto-social.jpg))  
 
 **Mudanças positivas esperadas:**  
 - Aumento da alfabetização digital  
