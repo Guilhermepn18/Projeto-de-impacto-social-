@@ -1,7 +1,6 @@
 # 🌟 Conecta +
 
 **Transformando Vidas através da Inclusão Digital**  
-![Banner](https://images.unsplash.com/photo-1581091870620-2918699c57d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8dGVjaG5vbG9neXxlbnwwfHx8fDE2OTI5NzY1NzI&ixlib=rb-4.0.3&q=80&w=1080)
 
 ---
 
@@ -13,7 +12,7 @@ O **Conecta +** acredita que a tecnologia deve **unir, educar e transformar vida
 ---
 
 ## 1️⃣ O Problema
-![Desigualdade Digital](https://images.unsplash.com/photo-1581093588401-59e3a8f746d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)  
+ 
 A **desigualdade digital** é um desafio que afeta diversos grupos:  
 
 - **Jovens**: sem acesso a cursos online, redes de aprendizado ou tutoria.  
@@ -60,8 +59,7 @@ O Conecta + é projetado para atender estas necessidades, oferecendo **interface
 ---
 
 ## 4️⃣ Benefício e Diferencial
-![Benefícios da Inclusão Digital](https://images.unsplash.com/photo-1581091215360-7a5b69b48a9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)  
-
+  
 **Benefícios principais:**  
 - Capacitação digital prática e inclusiva  
 - Acesso offline e em dispositivos antigos  
@@ -75,7 +73,6 @@ O Conecta + é projetado para atender estas necessidades, oferecendo **interface
 ---
 
 ## 5️⃣ Inclusão & Acessibilidade
-![Acessibilidade Digital](https://images.unsplash.com/photo-1581091012184-5f26d7d0cfd7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)  
 
 **Princípios aplicados (WCAG):**  
 - Interface simples e intuitiva  
@@ -88,7 +85,6 @@ O Conecta + é projetado para atender estas necessidades, oferecendo **interface
 ---
 
 ## 6️⃣ Impacto Social Esperado
-![Impacto Social](https://images.unsplash.com/photo-1504384308090-c894fdcc538d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)  
 
 **Mudanças positivas esperadas:**  
 - Aumento da alfabetização digital  
