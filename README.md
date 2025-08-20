@@ -1,125 +1,98 @@
-<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f0f4f8; padding: 50px; border-radius: 20px; text-align:center; color: #2c3e50; max-width: 900px; margin: auto; box-shadow: 0 15px 40px rgba(0,0,0,0.1);">
+# 🌟 Conecta +
 
-  <style>
-    .card {
-      background: white;
-      padding: 25px;
-      border-radius: 20px;
-      flex: 1;
-      min-width: 250px;
-      max-width: 300px;
-      box-shadow: 0 10px 25px rgba(0,0,0,0.15);
-      transition: transform 0.3s, box-shadow 0.3s;
-      text-align: left;
-    }
+**Transformando Vidas através da Inclusão Digital**
 
-    .card:hover {
-      transform: translateY(-10px);
-      box-shadow: 0 15px 35px rgba(0,0,0,0.2);
-    }
+---
 
-    .highlight {
-      color: #3498db;
-      font-weight: bold;
-    }
+A **desigualdade digital** ainda separa milhões de pessoas do mundo moderno.  
+Jovens sem acesso a cursos online, adultos sem habilidades digitais e idosos isolados acabam perdendo oportunidades importantes.  
+No **Conecta +**, acreditamos que a tecnologia deve **unir, educar e transformar vidas**.
 
-    .button {
-      display:inline-block;
-      background: #8e44ad;
-      color:white;
-      padding: 18px 35px;
-      border-radius: 50px;
-      text-decoration:none;
-      font-weight:bold;
-      box-shadow:0 8px 20px rgba(0,0,0,0.2);
-      transition: all 0.3s ease;
-      margin-top: 30px;
-    }
+---
 
-    .button:hover {
-      background: #732d91;
-      transform: scale(1.05);
-    }
+## 1️⃣ O Problema
+> ![Problema GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)  
+> A **desigualdade digital** afeta principalmente:
+> - Jovens sem acesso a cursos online  
+> - Adultos sem domínio de ferramentas digitais  
+> - Idosos isolados tecnologicamente  
+>
+> **Consequências:** exclusão educacional e profissional, perda de oportunidades, marginalização digital e social.
 
-    .gif-icon {
-      width: 80px;
-      height: 80px;
-      margin-bottom: 15px;
-      display:block;
-      margin-left:auto;
-      margin-right:auto;
-    }
+---
 
-    p { line-height: 1.7em; }
-  </style>
+## 2️⃣ Solução Proposta
+> ![Solução GIF](https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif)  
+> O **Conecta +** é uma **plataforma digital gratuita** que oferece:
+> - Cursos de capacitação digital  
+> - Oficinas interativas  
+> - Tutoria personalizada  
+>
+> Funciona offline e em internet lenta, garantindo acesso a todos. É uma **tecnologia para redução de desigualdades**, permitindo que qualquer pessoa desenvolva habilidades práticas para educação e trabalho.
 
-  <h1 style="font-size:3em; margin-bottom:10px;">🌟 Conecta +</h1>
-  <h3 style="font-weight:400; margin-top:0; color:#34495e;">Transformando Vidas através da Inclusão Digital</h3>
+---
 
-  <hr style="border: 0; height: 3px; background: linear-gradient(to right, #3498db, #2ecc71); margin: 35px 0; border-radius: 3px;">
+## 3️⃣ Público-alvo
+> ![Público-alvo GIF](https://media.giphy.com/media/xT5LMqf7zH0C5Xy7vw/giphy.gif)  
+> Usuários diretos:
+> - Jovens, adultos e idosos com pouca experiência digital  
+> - Comunidades rurais ou de baixa renda  
+>
+> **Como a divisão digital os afeta:** limita acesso a educação, emprego, informação e participação social.  
+> A plataforma é projetada para atender exatamente essas pessoas, com interface simples e compatível com dispositivos antigos.
 
-  <p style="font-size:1.2em; max-width:750px; margin:auto;">
-    A <span class="highlight">desigualdade digital</span> ainda separa milhões de pessoas do mundo moderno. Jovens sem acesso a cursos online, adultos sem domínio de ferramentas digitais e idosos isolados acabam perdendo oportunidades importantes.  
-    No <span class="highlight">Conecta +</span>, acreditamos que a tecnologia deve <span class="highlight">unir, educar e transformar vidas</span>.
-  </p>
+---
 
-  <div style="display:flex; justify-content:center; gap: 30px; margin: 40px 0; flex-wrap: wrap;">
+## 4️⃣ Benefício e Diferencial
+> ![Benefício GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
+> **Principais benefícios:**
+> - Capacitação digital prática e inclusiva  
+> - Acesso offline e em dispositivos antigos  
+> - Tutoria personalizada  
+>
+> **Por que é melhor que alternativas existentes:**  
+> Funciona mesmo com internet lenta, é gratuita, open-source e projetada para inclusão, diferentemente de cursos pagos ou plataformas complexas.
 
-    <div class="card" style="border-top: 5px solid #3498db;">
-      <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" alt="Solução GIF" class="gif-icon"/>
-      <h3>💡 Solução</h3>
-      <p>
-        O <span class="highlight">Conecta +</span> é um aplicativo gratuito que oferece cursos de capacitação digital, oficinas interativas e tutoria personalizada.  
-        Ele funciona offline e em conexões lentas, garantindo que o aprendizado chegue a quem mais precisa.  
-        Nosso foco é reduzir a <span class="highlight">desigualdade digital</span>, permitindo que cada pessoa desenvolva habilidades práticas para educação e trabalho.
-      </p>
-    </div>
+---
 
-    <div class="card" style="border-top: 5px solid #2ecc71;">
-      <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Objetivo GIF" class="gif-icon"/>
-      <h3>🎯 Objetivo</h3>
-      <p>
-        Nosso objetivo é capacitar pessoas e transformar comunidades. Cada aula é uma oportunidade de aumentar a empregabilidade, dar autonomia e abrir portas para educação e trabalho.  
-        Buscamos ser uma plataforma de referência em <span class="highlight">inclusão digital</span>, conectando usuários a cursos, empregos e redes de aprendizado.
-      </p>
-    </div>
+## 5️⃣ Inclusão e Acessibilidade
+> ![Inclusão GIF](https://media.giphy.com/media/26xBRwHEa5Wr0/giphy.gif)  
+> A plataforma segue princípios de **Acessibilidade Digital (WCAG)**:
+> - Interface simples e intuitiva  
+> - Contraste adequado e legendas nos vídeos  
+> - Suporte a leitores de tela  
+> - Navegação clara e consistente  
+>
+> Funciona em aparelhos antigos e internet lenta, garantindo **acesso universal**.
 
-    <div class="card" style="border-top: 5px solid #e67e22;">
-      <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" alt="Impacto GIF" class="gif-icon"/>
-      <h3>✅ Impacto</h3>
-      <p>
-        A plataforma gera mudanças reais: mais habilidades digitais, inclusão social, autoestima e oportunidades concretas.  
-        Mediremos o sucesso pelo número de pessoas capacitadas, cursos concluídos e histórias reais de transformação que surgirem através do Conecta +.
-      </p>
-    </div>
-  </div>
+---
 
-  <div style="display:flex; justify-content:center; gap: 30px; margin: 40px 0; flex-wrap: wrap;">
+## 6️⃣ Impacto Social Esperado
+> ![Impacto GIF](https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif)  
+> Mudanças positivas esperadas:
+> - Maior alfabetização digital  
+> - Inclusão social e profissional  
+> - Elevação da autoestima e autonomia  
+>
+> **Medição de sucesso:** número de pessoas capacitadas, cursos concluídos, histórias reais de transformação.
 
-    <div class="card" style="border-top: 5px solid #1abc9c;">
-      <img src="https://media.giphy.com/media/xT5LMqf7zH0C5Xy7vw/giphy.gif" alt="Inclusão GIF" class="gif-icon"/>
-      <h3>♿ Inclusão & Acessibilidade</h3>
-      <p>
-        Interface simples, contraste adequado, legendas nos vídeos, suporte a leitores de tela e navegação intuitiva.  
-        Funciona em internet lenta e em aparelhos antigos, garantindo que ninguém fique excluído da experiência digital.
-      </p>
-    </div>
+---
 
-    <div class="card" style="border-top: 5px solid #f39c12;">
-      <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" alt="Sustentabilidade GIF" class="gif-icon"/>
-      <h3>🌱 Sustentabilidade</h3>
-      <p>
-        Projeto open-source, com potencial de apoio de ONGs e negócios sociais.  
-        Servidores eficientes e otimização de dados garantem baixo consumo energético, promovendo <span class="highlight">TI verde</span> e sustentabilidade ambiental.  
-        Assim, o Conecta + se mantém a longo prazo, gerando impacto positivo contínuo.
-      </p>
-    </div>
-  </div>
+## 7️⃣ Sustentabilidade do Projeto
+> ![Sustentabilidade GIF](https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif)  
+> Sustentabilidade a longo prazo:
+> - Projeto open-source com apoio de ONGs e negócios sociais  
+> - Servidores otimizados e baixo consumo energético (**TI verde**)  
+> - Possibilidade de financiamento por parceiros sociais  
+>
+> A plataforma é energeticamente eficiente e capaz de gerar impacto positivo contínuo, mantendo a missão de inclusão digital.
 
-  <a href="#contribua" class="button">🤝 Junte-se a nós!</a>
+---
 
-  <hr style="border:0; height:1px; background:#ccc; margin: 50px 0;">
+## 🤝 Junte-se a nós!
+> Contribua para o **Conecta +** e ajude a construir uma sociedade mais justa e conectada.  
 
-  <p style="color:#7f8c8d; font-size:0.95em;">#InclusãoDigital #ImpactoSocial #Sustentabilidade #TecnologiaParaTodos #ConectaMais</p>
+---
 
-</div>
+**#InclusãoDigital #ImpactoSocial #Sustentabilidade #TecnologiaParaTodos #ConectaMais**
+
