@@ -1,7 +1,4 @@
 <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f0f4f8; padding: 50px; border-radius: 20px; text-align:center; color: #2c3e50; max-width: 900px; margin: auto; box-shadow: 0 15px 40px rgba(0,0,0,0.1); animation: fadeIn 1.5s ease-in-out;">
-
-  </style>
-
   <h1 style="font-size:3em; margin-bottom:10px;">🌟 Conecta +</h1>
   <h3 style="font-weight:400; margin-top:0; color:#34495e;">Transformando Vidas através da Inclusão Digital</h3>
 
