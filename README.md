@@ -1,7 +1,7 @@
 # 🌟 Conecta +
 
 **Transformando Vidas através da Inclusão Digital**  
-![Banner GIF](https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif)
+![Banner](https://images.unsplash.com/photo-1581091870620-2918699c57d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8dGVjaG5vbG9neXxlbnwwfHx8fDE2OTI5NzY1NzI&ixlib=rb-4.0.3&q=80&w=1080)
 
 ---
 
@@ -13,7 +13,7 @@ O **Conecta +** acredita que a tecnologia deve **unir, educar e transformar vida
 ---
 
 ## 1️⃣ O Problema
-![Problema](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)  
+![Problema](https://images.unsplash.com/photo-1581093588401-59e3a8f746d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)  
 A **desigualdade digital** é um desafio que afeta diversos grupos:  
 
 - **Jovens**: sem acesso a cursos online, redes de aprendizado ou tutoria.  
@@ -30,7 +30,7 @@ A **desigualdade digital** é um desafio que afeta diversos grupos:
 ---
 
 ## 2️⃣ Solução Proposta
-![Solução](https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif)  
+![Solução](https://images.unsplash.com/photo-1521791136064-7986c2920216?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)  
 
 O **Conecta +** é uma **plataforma digital gratuita**, desenvolvida para reduzir desigualdades digitais. Oferece:  
 
@@ -46,7 +46,7 @@ O **Conecta +** é uma **plataforma digital gratuita**, desenvolvida para reduzi
 ---
 
 ## 3️⃣ Público-alvo
-![Público-alvo](https://media.giphy.com/media/xT5LMqf7zH0C5Xy7vw/giphy.gif)  
+![Público-alvo](https://images.unsplash.com/photo-1504384308090-c894fdcc538d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)  
 
 Usuários diretos:  
 
@@ -60,22 +60,22 @@ O Conecta + é projetado para atender estas necessidades, oferecendo **interface
 ---
 
 ## 4️⃣ Benefício e Diferencial
-![Benefício](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
+![Benefício](https://images.unsplash.com/photo-1581091215360-7a5b69b48a9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)  
 
 **Benefícios principais:**  
-- Capacitação digital prática e inclusiva.  
-- Acesso offline e em dispositivos antigos.  
-- Tutoria personalizada e acompanhamento do progresso.  
+- Capacitação digital prática e inclusiva  
+- Acesso offline e em dispositivos antigos  
+- Tutoria personalizada e acompanhamento do progresso  
 
 **Por que é melhor que alternativas existentes:**  
-- Funciona mesmo com internet lenta.  
-- Gratuita e open-source.  
+- Funciona mesmo com internet lenta  
+- Gratuita e open-source  
 - Projeta inclusão de forma **eficiente e escalável**, ao contrário de cursos pagos ou plataformas complexas.
 
 ---
 
 ## 5️⃣ Inclusão & Acessibilidade
-![Inclusão](https://media.giphy.com/media/xT5LMqf7zH0C5Xy7vw/giphy.gif)  
+![Inclusão](https://images.unsplash.com/photo-1581091012184-5f26d7d0cfd7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)  
 
 **Princípios aplicados (WCAG):**  
 - Interface simples e intuitiva  
@@ -88,7 +88,7 @@ O Conecta + é projetado para atender estas necessidades, oferecendo **interface
 ---
 
 ## 6️⃣ Impacto Social Esperado
-![Impacto](https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif)  
+![Impacto](https://images.unsplash.com/photo-1504384308090-c894fdcc538d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)  
 
 **Mudanças positivas esperadas:**  
 - Aumento da alfabetização digital  
@@ -105,7 +105,7 @@ O Conecta + é projetado para atender estas necessidades, oferecendo **interface
 ---
 
 ## 7️⃣ Sustentabilidade do Projeto
-![Sustentabilidade](https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif)  
+![Sustentabilidade](https://images.unsplash.com/photo-1503387762-592deb58ef4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)  
 
 **Como manter a longo prazo:**  
 - Projeto **open-source** com apoio de ONGs e negócios sociais  
