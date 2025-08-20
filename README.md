@@ -13,7 +13,7 @@ O **Conecta +** acredita que a tecnologia deve **unir, educar e transformar vida
 ---
 
 ## 1️⃣ O Problema
-![Problema](https://images.unsplash.com/photo-1581093588401-59e3a8f746d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)  
+![Desigualdade Digital](https://images.unsplash.com/photo-1581093588401-59e3a8f746d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)  
 A **desigualdade digital** é um desafio que afeta diversos grupos:  
 
 - **Jovens**: sem acesso a cursos online, redes de aprendizado ou tutoria.  
@@ -30,7 +30,7 @@ A **desigualdade digital** é um desafio que afeta diversos grupos:
 ---
 
 ## 2️⃣ Solução Proposta
-![Solução](https://images.unsplash.com/photo-1521791136064-7986c2920216?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)  
+![Solução Tecnológica](https://images.unsplash.com/photo-1521791136064-7986c2920216?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)  
 
 O **Conecta +** é uma **plataforma digital gratuita**, desenvolvida para reduzir desigualdades digitais. Oferece:  
 
@@ -46,7 +46,7 @@ O **Conecta +** é uma **plataforma digital gratuita**, desenvolvida para reduzi
 ---
 
 ## 3️⃣ Público-alvo
-![Público-alvo](https://images.unsplash.com/photo-1504384308090-c894fdcc538d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)  
+![Inclusão Digital](https://images.unsplash.com/photo-1504384308090-c894fdcc538d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)  
 
 Usuários diretos:  
 
@@ -60,7 +60,7 @@ O Conecta + é projetado para atender estas necessidades, oferecendo **interface
 ---
 
 ## 4️⃣ Benefício e Diferencial
-![Benefício](https://images.unsplash.com/photo-1581091215360-7a5b69b48a9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)  
+![Benefícios da Inclusão Digital](https://images.unsplash.com/photo-1581091215360-7a5b69b48a9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)  
 
 **Benefícios principais:**  
 - Capacitação digital prática e inclusiva  
@@ -75,7 +75,7 @@ O Conecta + é projetado para atender estas necessidades, oferecendo **interface
 ---
 
 ## 5️⃣ Inclusão & Acessibilidade
-![Inclusão](https://images.unsplash.com/photo-1581091012184-5f26d7d0cfd7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)  
+![Acessibilidade Digital](https://images.unsplash.com/photo-1581091012184-5f26d7d0cfd7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)  
 
 **Princípios aplicados (WCAG):**  
 - Interface simples e intuitiva  
@@ -88,7 +88,7 @@ O Conecta + é projetado para atender estas necessidades, oferecendo **interface
 ---
 
 ## 6️⃣ Impacto Social Esperado
-![Impacto]([https://images.unsplash.com/photo-1504384308090-c894fdcc538d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080](https://www.weg.net/weghome/wp-content/uploads/2018/02/negocios-de-impacto-social.jpg))  
+![Impacto Social](https://images.unsplash.com/photo-1504384308090-c894fdcc538d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)  
 
 **Mudanças positivas esperadas:**  
 - Aumento da alfabetização digital  
@@ -105,7 +105,7 @@ O Conecta + é projetado para atender estas necessidades, oferecendo **interface
 ---
 
 ## 7️⃣ Sustentabilidade do Projeto
-![Sustentabilidade](https://images.unsplash.com/photo-1503387762-592deb58ef4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)  
+![Sustentabilidade Tecnológica](https://images.unsplash.com/photo-1503387762-592deb58ef4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)  
 
 **Como manter a longo prazo:**  
 - Projeto **open-source** com apoio de ONGs e negócios sociais  
